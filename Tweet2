@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tweet2</title>
+</head>
+<body>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<center><h4>I don't want to be current,</h4></center>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<center><h1>I want to be transcendent.</h1></center>
+	<br>
+	<br>
+	<br>
+	<br>
+	<center><p><a href="Tweet3.html">Next Tweet</a></p></center>
+	<center><p><a href="Tweet1">Original Tweet</a></p></center>
+
+</body>
+</html>
+
+<!-- "I don't want to be current, I want to be transcendent." -->
